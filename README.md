@@ -1,2 +1,2 @@
         # TASK-MANAGEMENT-APP
-In this Task Management app we can create a task if any mistake happens or we can edit the Task. if we want to delete the task it possible in my Task Management app.
+I've developed a task management app that offers a user-friendly interface for efficiently managing tasks. Users can easily add, delete, and update tasks within the app. Tasks can be marked as completed, visually differentiated by color-coding, and categorized using various colors for enhanced organization and clarity. This app streamlines task management, making it a valuable tool for staying organized and productive.
